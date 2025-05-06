@@ -35,6 +35,7 @@ class VaultDoorTraining {
 ```
 
 ## Solution
-picoCTF{w4rm1ng_Up_w1tH_jAv4_3808d338b46}
-
 The flag is on the last line where it checks if the password is equal to the correct password which is the flag.
+
+## Flag
+picoCTF{w4rm1ng_Up_w1tH_jAv4_3808d338b46}
