@@ -66,6 +66,7 @@ class VaultDoor1 {
 ```
 
 ## Solution
-picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_ff63b0}
-
 To get the flag, rearrange the password based on the position of the character.
+
+## Flag
+picoCTF{d35cr4mbl3_tH3_cH4r4cT3r5_ff63b0}
