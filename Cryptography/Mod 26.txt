@@ -1,0 +1,1 @@
+just decrypt 2 times with rot 13 , that's why 26 

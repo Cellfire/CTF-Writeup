@@ -1,0 +1,8 @@
+After decrypt with base64, it show like this
+
+b'd3BqdkpBTXtqaGx6aHlfazNqeTl3YTNrXzg2a2wzMmsyfQ=='
+
+remove the salt which is be to get the right decryption
+
+use base 64 again
+
