@@ -1,0 +1,3 @@
+It gives you a qr code and command for webshell and others.
+
+However, you can find the flag after scan the qr code unexpectedly

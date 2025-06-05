@@ -1,0 +1,2 @@
+use aperi solve find suspicious encrypted text which is long and has equal sign at the back.
+decrypt it with base 64
